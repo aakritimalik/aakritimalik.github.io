@@ -1,19 +1,18 @@
 # Authors
 
-Aakriti Malik:
-  name        : "Aakriti Malik"
+Name Name:
+  name        : "Name Name"
   uri         : "http://name.com"
-  email       : "aakritmalik26@gmail.com"
- # bio         : "This is the first name."
+  email       : "name@name.com"
+  bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
- #  twitter     : "name"
-  # google_plus : "Name"
-  instagram   : "mindfulllyme"
+  twitter     : "name"
+  google_plus : "Name"
 
-#Name2 Name2:
- # name        : "Name2 Name2"
- # email       : "name2@name2.com"
- # bio         : "I ordered what?"
- # avatar      : "bio-photo.jpg"
- # twitter     : "name2"
- # google_plus : "Name"
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
