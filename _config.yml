@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Aakriti Malik"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aakriti Malik"
 description              : &description "Clinical Psychologist at Middlemore Hospital, Auckland, New Zealand"
 url                      : "https://aakritimalik.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "aakritimalik26@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Aakriti-Malik"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "mindfulllyme"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://nz.linkedin.com/in/aakriti-malik-186873114"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
