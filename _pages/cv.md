@@ -7,18 +7,16 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
 <!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
 
 <h2 align="center">{{ site.author.name }}</h2>
-<h3 align="center" style="margin: 0px auto 20px;">M.Phil., MA</h3>
+<h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3>
 <p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
 
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;
-<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124;
-<i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;
-<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124; 
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 
 Education
