@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **MPhil. in Clinical Psychology**, National Institute of Mental Health and Neuro Sciences (NIMHANS), Bangalore, 2015
+  + Dissertation title: Pathways-to- care, Awareness about Child Psychiatric Conditions and Expectations from Mental Health Professionals
+* **MA in Psychology (Psycho Social Clinical Studies)**, Ambedkar University, New Delhi, 2012
+* **BA in Psychology (Honours)**, Jesus and Mary College, University of Delhi, New Delhi, 2010
 
 Work experience
 ======
