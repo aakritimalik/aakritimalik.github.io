@@ -13,7 +13,7 @@ redirect_from:
 <!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
 
 <h2 align="center">{{ site.author.name }}</h2>
-<h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3>
+<h3 align="center" style="margin: 0px auto 20px;">M.Phil, M.A</h3>
 <p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
 
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124; <i class="fab fa-instagram" aria-hidden="true"></i>&nbsp;<a href="https://instagram.com/{{ site.author.instagram }}">@{{ site.author.instagram }}</a></p>
@@ -58,6 +58,14 @@ _National Institute of Mental Health and Neuro Sciences_
 * **Guest Lecturer**, _Lady Reading Health School_, New Delhi
   + Mar 2012 - Apr 2013
 
+## Licenses & Certifications
+* Clinical Psychologist 
+  - Rehabilitation Council of India (RCI)
+  - Credential ID A46043
+* EMDR Level I training
+  - EMDR Association of Australia
+* Malaysian Society for Clinical Psychology
+* New Zealand Psychologists Board
 
   
 Skills
