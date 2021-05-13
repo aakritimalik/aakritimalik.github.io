@@ -68,20 +68,20 @@ _National Institute of Mental Health and Neuro Sciences_
 * New Zealand Psychologists Board
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Peer-reviwed publications
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Malik, Aakriti**, and Meenakshi Mehta. "Bullying among adolescents in an indian school." Psychological Studies 61.3 (2016): 220-232.
+
+**Malik, Aakriti**. "Working with Shame in Psychotherapy: An Eclectic Approach." The Bright Side of Shame: Transforming and Growing Through Practical Applications in Cultural Contexts, edited by Claude-Hélène Mayer and Elisabeth Vanderheiden, Springer International Publishing, 2019, pp. 381-94. Springer Link, doi:10.1007/978-3-030-13409-9_25.
+
+**Malik, Aakriti**. "Understanding the potential bully." Indian Journal of Youth and Adolescent Health 1.3&4 (2014).
+
+**Malik, Aakriti**. "Psychological Management in Patients with Cancer." Int. J. Gen. Can 1.3&4 (2014): 66-72.
+
+
+## Other publications
+Kaswadi, K. A., **Aakriti Malik**, and Ooi Boon Keat. "Anxiety and academic achievement among undergraduate students." Journal Management and Science 16.2 (2018): 11-18.
+
   
 Talks
 ======
