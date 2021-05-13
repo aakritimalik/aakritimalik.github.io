@@ -45,13 +45,12 @@ _Pandit Deen Dayal Upadhyay Institute for Physically Handicapped_, New Delhi
   + Aug 2015 - Feb 2016: 7 months 
   + Psychotherapy with children, adolescents, adults and their family members: Cognitive Behavioral Therapy, Supportive Psychotherapy, Grief Therapy, Motivation Enhancement Therapy, Behavioral Modification, Psychoeducation.
   + Psychometric Assessment: Personality assessment and Intelligence Testing
-  + Conducting Workshops and Seminars on various topics: Example: Suicide among adolescents, Cognitive Behavioral Therapy, Child and Adolescent Mental Health Certificate Courses, Personality Development, Neuropsychology
+
 
 * **Clinical Psychologist (Trainee)** ,
 _National Institute of Mental Health and Neuro Sciences_
   + Jun 2013 - May 2015
-  + Supervised training in various psychological assessments and psychotherapies with IP and OP Patients in a hospital dedicated to treating neurological and psychiatric conditions.  
- 
+
 * **PGT Psychology**, _St. Mary's School_, Safdarjung Enclave, New Delhi 
   + Apr 2013 - May 2013
 
@@ -69,18 +68,19 @@ _National Institute of Mental Health and Neuro Sciences_
 
   
 ## Peer-reviwed publications
+**Malik A.** (2021) _Coming Home to Self: Finding Self-Compassion and Self-Love in Psychotherapy._ In: Mayer CH., Vanderheiden E. (eds) International Handbook of Love. Springer, Cham. https://doi.org/10.1007/978-3-030-45996-3_27
 
-**Malik, Aakriti**, and Meenakshi Mehta. "Bullying among adolescents in an indian school." Psychological Studies 61.3 (2016): 220-232.
+**Malik A.** (2019) _Working with Shame in Psychotherapy: An Eclectic Approach._ In: Mayer CH., Vanderheiden E. (eds) The Bright Side of Shame. Springer, Cham. https://doi.org/10.1007/978-3-030-13409-9_25
 
-**Malik, Aakriti**. "Working with Shame in Psychotherapy: An Eclectic Approach." The Bright Side of Shame: Transforming and Growing Through Practical Applications in Cultural Contexts, edited by Claude-Hélène Mayer and Elisabeth Vanderheiden, Springer International Publishing, 2019, pp. 381-94. Springer Link, doi:10.1007/978-3-030-13409-9_25.
+**Malik, A.**, Mehta, M. _Bullying Among Adolescents in an Indian School._ Psychol Stud 61, 220-232 (2016). https://doi.org/10.1007/s12646-016-0368-4
 
-**Malik, Aakriti**. "Understanding the potential bully." Indian Journal of Youth and Adolescent Health 1.3&4 (2014).
+**Malik, A.**. _Understanding the potential bully._ Indian Journal of Youth and Adolescent Health 1.3&4 (2014).
 
-**Malik, Aakriti**. "Psychological Management in Patients with Cancer." Int. J. Gen. Can 1.3&4 (2014): 66-72.
+**Malik, A.**. _Psychological Management in Patients with Cancer._ Int. J. Gen. Can 1.3&4 (2014): 66-72.
 
 
 ## Other publications
-Kaswadi, K. A., **Aakriti Malik**, and Ooi Boon Keat. "Anxiety and academic achievement among undergraduate students." Journal Management and Science 16.2 (2018): 11-18.
+Kaswadi, K. A., **Aakriti Malik**, and Ooi Boon Keat. _Anxiety and academic achievement among undergraduate students._ Journal Management and Science 16.2 (2018): 11-18.
 
   
 Talks
