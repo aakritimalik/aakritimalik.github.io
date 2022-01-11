@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "FAQ"
-permalink: /cv/
+permalink: /faq/
 author_profile: true
 redirect_from:
-  - /resume
+-
 ---
 
 **Is psychotherapy the same as counselling? **
