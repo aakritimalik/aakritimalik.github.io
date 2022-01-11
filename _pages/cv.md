@@ -20,10 +20,10 @@ redirect_from:
 
 
 ## Education
-* **MPhil. in Clinical Psychology**, National Institute of Mental Health and Neuro Sciences (NIMHANS), Bangalore, 2015
+* **MPhil. in Clinical Psychology**, [National Institute of Mental Health and Neuro Sciences (NIMHANS)](https://nimhans.ac.in/ "https://nimhans.ac.in/"), Bangalore, 2015
   + Dissertation title: Pathways-to- care, Awareness about Child Psychiatric Conditions and Expectations from Mental Health Professionals
-* **MA in Psychology (Psycho Social Clinical Studies)**, Ambedkar University, New Delhi, 2012
-* **BA in Psychology (Honours)**, Jesus and Mary College, University of Delhi, New Delhi, 2010
+* **MA in Psychology (Psycho Social Clinical Studies)**, [Ambedkar University](https://aud.ac.in "https://aud.ac.in"), New Delhi, 2012
+* **BA in Psychology (Honours)**, [Jesus and Mary College](https://www.jmc.ac.in "https://www.jmc.ac.in"), University of Delhi, New Delhi, 2010
 
 ## Work experience
 * **Clinical Psychologist**
@@ -42,7 +42,7 @@ _Pandit Deen Dayal Upadhyay Institute for Physically Handicapped_, New Delhi
   + May 2015 - Mar 2016
   + Taught Psychology and Adolescent Mental Health to Nursing students pursuing their Degree Course in Auxiliary Nurse Midwifery (ANM) and Psychology and Sociology to students pursuing their Diploma in Promotional Course. 
 * **Clinical Psychologist**, _Moolchand Healthcare_, New Delhi
-  + Aug 2015 - Feb 2016: 7 months 
+  + Aug 2015 - Feb 2016
   + Psychotherapy with children, adolescents, adults and their family members: Cognitive Behavioral Therapy, Supportive Psychotherapy, Grief Therapy, Motivation Enhancement Therapy, Behavioral Modification, Psychoeducation.
   + Psychometric Assessment: Personality assessment and Intelligence Testing
 
@@ -67,8 +67,10 @@ _National Institute of Mental Health and Neuro Sciences_
 * New Zealand Psychologists Board
 
   
-## Peer-reviwed publications
+## Peer-reviewed publications
 **Malik A.** (2021) _Coming Home to Self: Finding Self-Compassion and Self-Love in Psychotherapy._ In: Mayer CH., Vanderheiden E. (eds) International Handbook of Love. Springer, Cham. https://doi.org/10.1007/978-3-030-45996-3_27
+
+**Malik A.** (2021) _Working with Humour in Psychotherapy._ In: Vanderheiden E., Mayer CH. (eds) The Palgrave Handbook of Humour Research. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-78280-1_25
 
 **Malik A.** (2019) _Working with Shame in Psychotherapy: An Eclectic Approach._ In: Mayer CH., Vanderheiden E. (eds) The Bright Side of Shame. Springer, Cham. https://doi.org/10.1007/978-3-030-13409-9_25
 
