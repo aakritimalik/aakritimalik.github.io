@@ -2,10 +2,12 @@
 layout: archive
 title: "FAQ"
 permalink: /faq/
+excerpt: "frequently asked questions"
 author_profile: true
 redirect_from:
 -
 ---
+{% include base_path %}
 
 **Is psychotherapy the same as counselling? **
 
