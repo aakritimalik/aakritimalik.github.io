@@ -3,7 +3,7 @@ title: "Working with Humour in Psychotherapy.
 collection: publications
 permalink: /publication/humour2021
 date: 2021-09-17
-citation: "Malik A. (2021) Working with Humour in Psychotherapy. In: Vanderheiden E., Mayer CH. (eds) The Palgrave Handbook of Humour Research. Palgrave Macmillan, DOI: <a href='https://doi.org/10.1007/978-3-030-78280-1_25'>https://doi.org/10.1007/978-3-030-78280-1_25</a>, 2021."
+citation: "Malik A. (2021) Working with Humour in Psychotherapy. In: Vanderheiden E., Mayer CH. (eds) The Palgrave Handbook of Humour Research. Palgrave Macmillan, DOI: <a href='https://doi.org/10.1007/978-3-030-78280-1_25'>10.1007/978-3-030-78280-1_25</a>"
 venue: 'The Palgrave Handbook of Humour Research, Springer'
 ---
 
