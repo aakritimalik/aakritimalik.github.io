@@ -9,6 +9,7 @@ venue: 'The Palgrave Handbook of Humour Research, Springer'
 ---
 
 ## Abstract
+
 <div style="float: left; margin-right: 10px; width: 200px">
     <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-78280-1_25" title="https://link.springer.com/chapter/10.1007%2F978-3-030-78280-1_25"><img src="/images/palgrave_humour.jpg"></a>
     <figcaption> 09/2021 <em>"Working with Humour in Psychotherapy"</em></figcaption>
