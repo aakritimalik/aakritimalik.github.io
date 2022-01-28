@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "Aakrit Malik is a Clinical Psychologist working at Middlemore Hospital, New Zealand. !mfew sentences about main work!""
 header:
   overlay_image: header/aman_about.jpeg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
   caption: "Photo: A. Malik"
 author_profile: true
-redirect_from:
-  - 
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Aakriti Malik is registered Clinical Psychologist with the New Zealand Psychologist Board and Rehabilitation Council of India. She has worked as a lecturer in public and private universities in India and Malaysia. Her research interests have been diverse - ranging from bullying in schools, history of hysteria to client expectations from mental health professionals. Her recent publications include work on shame, self-love and compassion based practices in psychotherapy.
