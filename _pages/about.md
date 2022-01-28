@@ -1,13 +1,9 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Aakrit Malik is a Clinical Psychologist working at Middlemore Hospital, New Zealand. !mfew sentences about main work!""
-header:
-  overlay_image: header/aman_about.jpeg
-  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
-  caption: "Photo: A. Malik"
+title: "Aakriti Malik"
+excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
