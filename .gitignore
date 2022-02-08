@@ -1,2 +1,10 @@
 _site/
+_drafts/
+.ipynb_checkpoints
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+._*
+*/._*
 
+ignore

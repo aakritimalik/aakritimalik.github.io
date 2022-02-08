@@ -73,8 +73,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -95,6 +94,7 @@
 
 .author__content {
   display: table-cell;
+  font-family: $serif; // doesn't work...
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
@@ -123,6 +123,7 @@
 
 .author__bio {
   margin: 0;
+  font-family: $serif; // try here...
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -134,7 +135,6 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
   z-index: 10;
   position: relative;
   cursor: pointer;
