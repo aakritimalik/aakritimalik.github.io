@@ -31,35 +31,31 @@ redirect_from:
 
 ## Work experience
 - **Clinical Psychologist**, Aug 2019 - Present<br>
-**[_Counties Manukau Health_, Auckland, New Zealand](https://www.countiesmanukau.health.nz/), 
-  **
-* **Lecturer**, _Management and Science University_, Selangor, Malaysia
-  + Mar 2017 - May 2019
-* **Online Clinical Psychologist**, _ePsyClinic_ 
-  + Jul 2016 - Feb 2017 
-  + Individual Psychotherapy with clients, primarily Dialectical Behavioral Therapy, CBT, Supportive Psychotherapy, writing research based articles, preparing modules for training for junior Psychologists 
-* **Guest Lecturer**,
-_Pandit Deen Dayal Upadhyay Institute for Physically Handicapped_, New Delhi
-  + Nov 2015 - Mar 2016
-  + Taught 'Rehabilitation' to students pursuing Bachelors in Physiotherapy and Occupational Therapy. 
-* **Guest Lecturer**, _Lady Reading Health School_
-  + May 2015 - Mar 2016
-  + Taught Psychology and Adolescent Mental Health to Nursing students pursuing their Degree Course in Auxiliary Nurse Midwifery (ANM) and Psychology and Sociology to students pursuing their Diploma in Promotional Course. 
-* **Clinical Psychologist**, _Moolchand Healthcare_, New Delhi
-  + Aug 2015 - Feb 2016
-  + Psychotherapy with children, adolescents, adults and their family members: Cognitive Behavioral Therapy, Supportive Psychotherapy, Grief Therapy, Motivation Enhancement Therapy, Behavioral Modification, Psychoeducation.
-  + Psychometric Assessment: Personality assessment and Intelligence Testing
+**[Counties Manukau Health, Auckland, New Zealand](https://www.countiesmanukau.health.nz/ "https://www.countiesmanukau.health.nz/")**
 
+- **Lecturer**, Mar 2017 - May 2019<br>
+**[Management and Science University, Selangor, Malaysia](https://www.msu.edu.my/ "https://www.msu.edu.my/")**
 
-* **Clinical Psychologist (Trainee)** ,
-_National Institute of Mental Health and Neuro Sciences_, Bangalore
-  + Jun 2013 - May 2015
+- **Online Clinical Psychologist**, Jul 2016 - Feb 2017<br>
+ **[ePsyClinic](https://epsyclinic.com/ "https://epsyclinic.com/")**
 
-* **PGT Psychology**, _St. Mary's School_, Safdarjung Enclave, New Delhi 
-  + Apr 2013 - May 2013
+- **Guest Lecturer**, Nov 2015 - Mar 2016<br>
+**[Pandit Deen Dayal Upadhyay Institute for Physically Handicapped, New Delhi](https://www.iphnewdelhi.in/ "https://www.iphnewdelhi.in/")**
 
-* **Guest Lecturer**, _Lady Reading Health School_, New Delhi
-  + Mar 2012 - Apr 2013
+- **Guest Lecturer**, May 2015 - Mar 2016<br>
+**[Lady Reading Health School, New Delhi](https://ladyreadinghealthschool.com/ "https://ladyreadinghealthschool.com/")**
+
+- **Clinical Psychologist**, Aug 2015 - Feb 2016<br>
+ **[Moolchand Healthcare, New Delhi](https://www.moolchandhealthcare.com/ "https://www.moolchandhealthcare.com/")**
+  
+- **Clinical Psychologist (Trainee)**, Jun 2013 - May 2015<br>
+**[National Institute of Mental Health and Neuro Sciences, Bangalore](https://nimhans.ac.in/ "https://nimhans.ac.in/")**
+ 
+- **PGT Psychology**, Apr 2013 - May 2013 <br>
+**[St. Mary's School, Safdarjung Enclave, New Delhi](https://www.stmarysdelhi.org/ "https://www.stmarysdelhi.org/")**  
+
+- **Guest Lecturer**, Mar 2012 - Apr 2013<br>
+**[Lady Reading Health School, New Delhi](https://ladyreadinghealthschool.com/ "https://ladyreadinghealthschool.com/")** 
 
 ## Other roles and memberships
 * [Review Editor](https://loop.frontiersin.org/people/1223702/overview), Positive Psychology, Frontiers in Psychology
