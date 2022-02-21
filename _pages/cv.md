@@ -1,10 +1,9 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - 
 ---
 
 
@@ -20,15 +19,20 @@ redirect_from:
 
 
 ## Education
-* **MPhil. in Clinical Psychology**, [National Institute of Mental Health and Neuro Sciences (NIMHANS)](https://nimhans.ac.in/ "https://nimhans.ac.in/"), Bangalore, 2015
+- **MPhil. in Clinical Psychology**, 2015-2017<br>
+**[National Institute of Mental Health and Neuro Sciences (NIMHANS), Bangalore](https://nimhans.ac.in/ "https://nimhans.ac.in/")**
   + Dissertation title: Pathways-to- care, Awareness about Child Psychiatric Conditions and Expectations from Mental Health Professionals
-* **MA in Psychology (Psycho Social Clinical Studies)**, [Ambedkar University](https://aud.ac.in "https://aud.ac.in"), New Delhi, 2012
-* **BA in Psychology (Honours)**, [Jesus and Mary College](https://www.jmc.ac.in "https://www.jmc.ac.in"), University of Delhi, New Delhi, 2010
+
+- **MA in Psychology (Psycho Social Clinical Studies)**, 2010-2012<br>
+**[Ambedkar University, New Delhi](https://aud.ac.in "https://aud.ac.in")**
+
+- **BA in Psychology (Honours)**, 2007-2010<br>
+**[Jesus and Mary College, University of Delhi, New Delhi](https://www.jmc.ac.in "https://www.jmc.ac.in")**
 
 ## Work experience
-* **Clinical Psychologist**
-_Counties Manukau Health_, Auckland, New Zealand
-  + Aug 2019 - Present
+- **Clinical Psychologist**, Aug 2019 - Present<br>
+**[_Counties Manukau Health_, Auckland, New Zealand](https://www.countiesmanukau.health.nz/), 
+  **
 * **Lecturer**, _Management and Science University_, Selangor, Malaysia
   + Mar 2017 - May 2019
 * **Online Clinical Psychologist**, _ePsyClinic_ 
@@ -48,7 +52,7 @@ _Pandit Deen Dayal Upadhyay Institute for Physically Handicapped_, New Delhi
 
 
 * **Clinical Psychologist (Trainee)** ,
-_National Institute of Mental Health and Neuro Sciences_
+_National Institute of Mental Health and Neuro Sciences_, Bangalore
   + Jun 2013 - May 2015
 
 * **PGT Psychology**, _St. Mary's School_, Safdarjung Enclave, New Delhi 
@@ -57,32 +61,35 @@ _National Institute of Mental Health and Neuro Sciences_
 * **Guest Lecturer**, _Lady Reading Health School_, New Delhi
   + Mar 2012 - Apr 2013
 
+## Other roles and memberships
+* [Review Editor](https://loop.frontiersin.org/people/1223702/overview), Positive Psychology, Frontiers in Psychology
+* Member, Malaysian Society for Clinical Psychology
+* Member, New Zealand Psychologists Board
+
 ## Licenses & Certifications
 * Clinical Psychologist 
   - Rehabilitation Council of India (RCI)
   - Credential ID A46043
 * EMDR Level I training
   - EMDR Association of Australia
-* Malaysian Society for Clinical Psychology
-* New Zealand Psychologists Board
 
   
 ## Peer-reviewed publications
-**Malik A.** (2021) _Coming Home to Self: Finding Self-Compassion and Self-Love in Psychotherapy._ In: Mayer CH., Vanderheiden E. (eds) International Handbook of Love. Springer, Cham. https://doi.org/10.1007/978-3-030-45996-3_27
+**Malik A.** (2021) _Coming Home to Self: Finding Self-Compassion and Self-Love in Psychotherapy._ In: Mayer CH., Vanderheiden E. (eds) International Handbook of Love. Springer, Cham. [Link](https://doi.org/10.1007/978-3-030-45996-3_27)
 
-**Malik A.** (2021) _Working with Humour in Psychotherapy._ In: Vanderheiden E., Mayer CH. (eds) The Palgrave Handbook of Humour Research. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-78280-1_25
+**Malik A.** (2021) _Working with Humour in Psychotherapy._ In: Vanderheiden E., Mayer CH. (eds) The Palgrave Handbook of Humour Research. Palgrave Macmillan, Cham. [Link](https://doi.org/10.1007/978-3-030-78280-1_25)
 
-**Malik A.** (2019) _Working with Shame in Psychotherapy: An Eclectic Approach._ In: Mayer CH., Vanderheiden E. (eds) The Bright Side of Shame. Springer, Cham. https://doi.org/10.1007/978-3-030-13409-9_25
+**Malik A.** (2019) _Working with Shame in Psychotherapy: An Eclectic Approach._ In: Mayer CH., Vanderheiden E. (eds) The Bright Side of Shame. Springer, Cham. [Link](https://doi.org/10.1007/978-3-030-13409-9_25)
 
-**Malik, A.**, Mehta, M. _Bullying Among Adolescents in an Indian School._ Psychol Stud 61, 220-232 (2016). https://doi.org/10.1007/s12646-016-0368-4
+**Malik, A.**, Mehta, M. _Bullying Among Adolescents in an Indian School._ Psychol Stud 61, 220-232 (2016). [Link](https://doi.org/10.1007/s12646-016-0368-4)
 
-**Malik, A.**. _Understanding the potential bully._ Indian Journal of Youth and Adolescent Health 1.3&4 (2014).
+**Malik, A.**. _Understanding the potential bully._ Indian Journal of Youth and Adolescent Health 1.3&4 (2014). [Link](https://www.researchgate.net/publication/292975941_Understanding_the_Potential_Bully)
 
-**Malik, A.**. _Psychological Management in Patients with Cancer._ Int. J. Gen. Can 1.3&4 (2014): 66-72.
+**Malik, A.**. _Psychological Management in Patients with Cancer._ Int. J. Gen. Can 1.3&4 (2014): 66-72. [Link](https://www.researchgate.net/publication/292975873_Psychological_Management_in_Patients_with_Cancer)
 
 
 ## Other publications
-Kaswadi, K. A., **Aakriti Malik**, and Ooi Boon Keat. _Anxiety and academic achievement among undergraduate students._ Journal Management and Science 16.2 (2018): 11-18.
+Kaswadi, K. A., **Aakriti Malik**, and Ooi Boon Keat. _Anxiety and academic achievement among undergraduate students._ Journal Management and Science 16.2 (2018): 11-18. [Link](https://www.researchgate.net/publication/343760560_Anxiety_and_Academic_Achievement_among_Undergraduate_Students)
 
   
 Talks

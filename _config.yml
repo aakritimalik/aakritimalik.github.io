@@ -181,12 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  publications_theses:
-    output: true
-    permalink: /:collection/:path/
-  publications_data:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -225,24 +219,6 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
-  # _publications_theses
-  - scope:
-      path: ""
-      type: publications_theses
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
-  # _publications_data
-  - scope:
-      path: ""
-      type: publications_data
     values:
       layout: single
       author_profile: true
