@@ -21,7 +21,7 @@ redirect_from:
 ## Education
 - **MPhil. in Clinical Psychology**, 2015-2017<br>
 **[National Institute of Mental Health and Neuro Sciences (NIMHANS), Bangalore](https://nimhans.ac.in/ "https://nimhans.ac.in/")**
-  + Dissertation title: Pathways-to- care, Awareness about Child Psychiatric Conditions and Expectations from Mental Health Professionals
+  - Dissertation title: Pathways-to- care, Awareness about Child Psychiatric Conditions and Expectations from Mental Health Professionals
 
 - **MA in Psychology (Psycho Social Clinical Studies)**, 2010-2012<br>
 **[Ambedkar University, New Delhi](https://aud.ac.in "https://aud.ac.in")**
@@ -35,27 +35,36 @@ redirect_from:
 
 - **Lecturer**, Mar 2017 - May 2019<br>
 **[Management and Science University, Selangor, Malaysia](https://www.msu.edu.my/ "https://www.msu.edu.my/")**
+  - Taught Psychology and Counselling courses to Diploma and Bachelor students pursuing their degrees in Psychology, Counselling and Guidance, Teaching and Public Relations.
 
 - **Online Clinical Psychologist**, Jul 2016 - Feb 2017<br>
  **[ePsyClinic](https://epsyclinic.com/ "https://epsyclinic.com/")**
+  - Individual psychotherapy utilising CBT, DBT, supportive psychotherapy approaches.
+  - Preparing training modules on Clinical skills for interns and junior psychologists.
 
 - **Guest Lecturer**, Nov 2015 - Mar 2016<br>
 **[Pandit Deen Dayal Upadhyay Institute for Physically Handicapped, New Delhi](https://www.iphnewdelhi.in/ "https://www.iphnewdelhi.in/")**
+  - Taught Rehabilitation to final year Bachelors pursuing their degrees in Physiotherapy and Occupational Therapy. 
 
 - **Guest Lecturer**, May 2015 - Mar 2016<br>
 **[Lady Reading Health School, New Delhi](https://ladyreadinghealthschool.com/ "https://ladyreadinghealthschool.com/")**
+  - Taught Mental Health, Psychology and Sociology to students pursuing their Diploma in Nursing.
 
 - **Clinical Psychologist**, Aug 2015 - Feb 2016<br>
- **[Moolchand Healthcare, New Delhi](https://www.moolchandhealthcare.com/ "https://www.moolchandhealthcare.com/")**
-  
+**[Moolchand Healthcare, New Delhi](https://www.moolchandhealthcare.com/ "https://www.moolchandhealthcare.com/")**
+  - Integrated Psychotherapy for children, adolescents, adults (CBT, DBT, Supportive, Behaviour Modification, Mindfulness Based Cognitive Therapy, family therapy); Psychometric assessment; Training and supervising interns
+  - Conducting workshops and seminars within and outside city (mental health awareness, self-care among Mental Health Professionals, personality   development in youth, learning disabilities, suicide, neuropsychology, CBT, counselling skills)
+ 
 - **Clinical Psychologist (Trainee)**, Jun 2013 - May 2015<br>
 **[National Institute of Mental Health and Neuro Sciences, Bangalore](https://nimhans.ac.in/ "https://nimhans.ac.in/")**
  
 - **PGT Psychology**, Apr 2013 - May 2013 <br>
 **[St. Mary's School, Safdarjung Enclave, New Delhi](https://www.stmarysdelhi.org/ "https://www.stmarysdelhi.org/")**  
+  - Worked as a Psychology teacher and a career counsellor teaching psychology and counselling students of 11th and 12th grade
 
 - **Guest Lecturer**, Mar 2012 - Apr 2013<br>
 **[Lady Reading Health School, New Delhi](https://ladyreadinghealthschool.com/ "https://ladyreadinghealthschool.com/")** 
+  - Taught Mental Health, Psychology and Education to students pursuing their Diploma in Nursing. 
 
 ## Other roles and memberships
 * [Review Editor](https://loop.frontiersin.org/people/1223702/overview), Positive Psychology, Frontiers in Psychology
