@@ -32,6 +32,8 @@ redirect_from:
 ## Work experience
 - **Clinical Psychologist**, Aug 2019 - Present<br>
 **[Counties Manukau Health, Auckland, New Zealand](https://www.countiesmanukau.health.nz/ "https://www.countiesmanukau.health.nz/")**
+  - Internal Family Systems Therapy 
+  - Acceptance and Commitment Therapy for Mood and Anxiety Disorders
 
 - **Lecturer**, Mar 2017 - May 2019<br>
 **[Management and Science University, Selangor, Malaysia](https://www.msu.edu.my/ "https://www.msu.edu.my/")**
@@ -51,7 +53,7 @@ redirect_from:
   - Taught Mental Health, Psychology and Sociology to students pursuing their Diploma in Nursing.
 
 - **Clinical Psychologist**, Aug 2015 - Feb 2016<br>
-**[Moolchand Healthcare, New Delhi](https://www.moolchandhealthcare.com/ "https://www.moolchandhealthcare.com/")**
+**[Moolchand Medicity, New Delhi](https://www.moolchandhealthcare.com/ "https://www.moolchandhealthcare.com/")**
   - Integrated Psychotherapy for children, adolescents, adults (CBT, DBT, Supportive, Behaviour Modification, Mindfulness Based Cognitive Therapy, family therapy); Psychometric assessment; Training and supervising interns
   - Conducting workshops and seminars within and outside city (mental health awareness, self-care among Mental Health Professionals, personality   development in youth, learning disabilities, suicide, neuropsychology, CBT, counselling skills)
  
@@ -68,15 +70,17 @@ redirect_from:
 
 ## Other roles and memberships
 * [Review Editor](https://loop.frontiersin.org/people/1223702/overview), Positive Psychology, Frontiers in Psychology
-* Member, Malaysian Society for Clinical Psychology
-* Member, New Zealand Psychologists Board
+* Member, [Malaysian Society for Clinical Psychology](https://www.mscp.my/ "https://www.mscp.my/")
+* Member, [New Zealand Psychologist Board](https://psychologistsboard.org.nz/ "https://psychologistsboard.org.nz/")
 
-## Licenses & Certifications
+## Licenses, Trainings, and Certifications
 * Clinical Psychologist 
-  - Rehabilitation Council of India (RCI)
+  - [Rehabilitation Council of India (RCI)](http://rehabcouncil.nic.in/ "http://rehabcouncil.nic.in/")
   - Credential ID A46043
-* EMDR Level I training
-  - EMDR Association of Australia
+* Eye Movement Desensitization and Reprocessing (EMDR) Level I training
+  - [EMDR Association of Australia](https://emdraa.org/ "https://emdraa.org/") 
+* [New Zealand Psychologist Board](https://psychologistsboard.org.nz/ "https://psychologistsboard.org.nz/")
+  - Registration No: 90-06994
 
   
 ## Peer-reviewed publications
