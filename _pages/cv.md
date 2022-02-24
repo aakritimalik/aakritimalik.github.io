@@ -101,15 +101,3 @@ redirect_from:
 Kaswadi, K. A., **Aakriti Malik**, and Ooi Boon Keat. _Anxiety and academic achievement among undergraduate students._ Journal Management and Science 16.2 (2018): 11-18. [Link](https://www.researchgate.net/publication/343760560_Anxiety_and_Academic_Achievement_among_Undergraduate_Students)
 
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
