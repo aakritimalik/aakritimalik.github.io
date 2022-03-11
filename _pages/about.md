@@ -8,10 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Ms. Aakriti is a licensed Clinical Psychologist currently practicing in New Zealand. She is registered with Rehabilitation Council of India and NZ Board of Psychologists. Trained from NIMHANS, Bangalore, India, she has 8 years of experience in seeing clients for various mental health and clinical concerns, across the globe. Additionally, she has also conducted various workshops and seminars for children, adolescents, parents, teachers and students of Psychology. She has been called upon as a resource person to train doctors and nurses in various government and Private institutes of India and Malaysia. 
-Her passion for the growth of budding Mental Health Professionals has driven her to offer mentorship and supervisions sessions.
-Having a flair for teaching, writing and research, Aakriti has worked as a lecturer in India and Malaysia and contributed immensely in developing content and training modules for mental health websites and writing research articles and chapters in renowned national and international publications.
+Welcome!
 
-## Approach to Therapy
-My approach in psychotherapy involves offering a warm, non-judgmental and a compassionate space for the client to feel secure enough to discuss their concerns. Being a trauma-informed therapist, I follow a humanistic and holistic framework and truly believe in the innate potential of each client to solve the most troubling of their concerns. My recent trainings include Acceptance and Commitment Therapy for Depression and Anxiety Disorders, EMDR (Level 1), and Internal Family Systems Therapy. In my work with clients, I use an eclectic approach which finds me utilising components of attachment theory, compassion based therapy, CBT, DBT, ACT, Gestalt and psychodynamic work based on the needs of my clients.
+I’m a registered Clinical Psychologist in India and New Zealand with 8 years of experience in providing psychotherapy services to clients across the globe, aged from 18-60 years for various mental health and clinical concerns.
+
+It has been an honour to provide services within the community in the form of trainings, workshops and seminars for fellow Health Professionals and students of Psychology and see clients in private practice. My passion for the growth of Mental Health Professionals has driven me to offer spaces for supervision and therapy to young psychologists. My fondness for teaching, writing and research led me to work as a lecturer in India and Malaysia, allowing me to publish my work in Indian and International publications. My interest in the field has directed me to develop content and training modules for mental health websites and create my own mental health page titled @mindfulllyme on Instagram in 2018, to promote positive mental health and wellbeing among the masses.
+
+ 
+
+## Approach to psychotherapy
+
+My approach in psychotherapy involves offering a warm, non-judgmental and a compassionate space for you to feel secure enough to discuss your concerns. Being a trauma-informed therapist, I follow a client-centred and holistic framework, believing in your innate potential for growth and problem-solving.
+
+In our collaborative work in psychotherapy, you will see me utilise and incorporate tools and concepts from attachment theory, compassion based therapy, breath- work, CBT, DBT, Acceptance and Commitment Therapy, Internal Family Systems Therapy, Gestalt and Psychodynamic approaches to skilfully navigate through your concerns.
+
+I am committed to  my own self-work and life-long learning,  by attending professional development trainings and completing additional certifications to keep myself abreast with the latest developments in the field, so as to offer you the very best of evidence- ased practices in therapy.
+
+I look forward to connecting with you and supporting you with the next step in your healing journey.
+
+
+## Approach to Supervision
+
+My approach in supervision is to create an open, warm, non-judgmental and explorative space for you to connect with your innate wisdom and potential as a Mental Health Professional. In this relationship, we shall navigate through your personal and professional aspects of your psychotherapeutic work with your clients in a structured as well as process- oriented manner, allowing you to chart your growth in your professional development in a flexible manner.
+
+The sessions shall emphasise upon the affirmative, explorative, informative and corrective domains in supervision, giving you an all-round space to hone your skills.
+
+If this sounds like a supervision space you’re looking for, I would be delighted to support you in your professional development.
+
+
 
