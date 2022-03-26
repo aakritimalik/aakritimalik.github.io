@@ -31,7 +31,7 @@ redirect_from:
 
 ## Work experience
 - ** Senior Clinical Psychologist**, Aug 2019 - Present<br>
-**[Counties Manukau Health, Auckland, New Zealand](https://www.countiesmanukau.health.nz/ "https://www.countiesmanukau.health.nz/")**
+**[Middlemore Hospital, Auckland, New Zealand](https://www.countiesmanukau.health.nz/ "https://www.countiesmanukau.health.nz/")**
    - Overlooking a 53 bedded acute inpatient service. Providing individual and group psychotherapy to adults and liaising with other Central Mental Health Clinics.
 
 - **Lecturer**, Mar 2017 - May 2019<br>
