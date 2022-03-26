@@ -30,7 +30,7 @@ redirect_from:
 **[Jesus and Mary College, University of Delhi, New Delhi](https://www.jmc.ac.in "https://www.jmc.ac.in")**
 
 ## Work experience
-- ** Senior Clinical Psychologist**, Aug 2019 - Present<br>
+- **Senior Clinical Psychologist**, Aug 2019 - Present<br>
 **[Middlemore Hospital, Auckland, New Zealand](https://www.countiesmanukau.health.nz/ "https://www.countiesmanukau.health.nz/")**
    - Overlooking a 53 bedded acute inpatient service. Providing individual and group psychotherapy to adults and liaising with other Central Mental Health Clinics.
 
