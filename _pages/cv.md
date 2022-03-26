@@ -30,10 +30,9 @@ redirect_from:
 **[Jesus and Mary College, University of Delhi, New Delhi](https://www.jmc.ac.in "https://www.jmc.ac.in")**
 
 ## Work experience
-- **Clinical Psychologist**, Aug 2019 - Present<br>
+- ** Senior Clinical Psychologist**, Aug 2019 - Present<br>
 **[Counties Manukau Health, Auckland, New Zealand](https://www.countiesmanukau.health.nz/ "https://www.countiesmanukau.health.nz/")**
-  - Internal Family Systems Therapy 
-  - Acceptance and Commitment Therapy for Mood and Anxiety Disorders
+   - Overlooking a 53 bedded acute inpatient service. Providing individual and group psychotherapy to adults and liaising with other Central Mental Health Clinics.
 
 - **Lecturer**, Mar 2017 - May 2019<br>
 **[Management and Science University, Selangor, Malaysia](https://www.msu.edu.my/ "https://www.msu.edu.my/")**
@@ -76,11 +75,10 @@ redirect_from:
 ## Licenses, Trainings, and Certifications
 * Clinical Psychologist 
   - [Rehabilitation Council of India (RCI)](http://rehabcouncil.nic.in/ "http://rehabcouncil.nic.in/")
-  - Credential ID A46043
+
 * Eye Movement Desensitization and Reprocessing (EMDR) Level I training
   - [EMDR Association of Australia](https://emdraa.org/ "https://emdraa.org/") 
 * [New Zealand Psychologist Board](https://psychologistsboard.org.nz/ "https://psychologistsboard.org.nz/")
-  - Registration No: 90-06994
 
   
 ## Peer-reviewed publications

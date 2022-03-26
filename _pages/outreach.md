@@ -14,6 +14,7 @@ redirect_from:
 
 {% include base_path %}
 
+Subscribe to my [newsletter](https://gmail.us19.list-manage.com/subscribe?u=62902094dada09dc2d63c2e8e&id=e87fe109f7)
 
 ## Instagram Page
 

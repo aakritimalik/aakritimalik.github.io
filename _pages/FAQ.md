@@ -11,7 +11,7 @@ redirect_from:
 
 **Is psychotherapy the same as counselling?**
 
-Counselling involves limited sessions which address dealing with everyday problems and issues such as life stresses, skills to manage anger or become assertive, to name a few. Psychotherapy on the other hand is a long- term process primarily dealing with clinical mental health issues which could be either acAQute or chronic for instance behavioural addictions, illnesses involving mood changes, depression, anxiety concerns. 
+Counselling involves limited sessions which address dealing with everyday problems and issues such as life stresses, skills to manage anger or become assertive, to name a few. Psychotherapy on the other hand is a long- term process primarily dealing with clinical mental health issues which could be either acute or chronic for instance behavioural addictions, illnesses involving mood changes, depression, anxiety concerns. 
 
 **How can psychotherapy help me?**
 
@@ -53,7 +53,7 @@ Now and then, I may offer sessions at a sliding scale fee. Kindly check with me 
 **I’m a student willing to work with you, however I cannot afford your fee. Can I still get any help?**
 
 Of course you can! It takes courage to ask for help and I’m so glad you are brave enough to do that.
-I offer workshops and webinars ( discounted prices for students) which involve discussion of various skills and tools to use when dealing with overwhelming emotions. Additionally, I would encourage you to subscribe to my fortnightly newsletter to keep your inner work going. 
+I offer workshops and webinars ( discounted prices for students) which involve discussion of various skills and tools to use when dealing with overwhelming emotions. Additionally, I would encourage you to subscribe to my bimonthly newsletter to keep your inner work going. 
 
 **I tried counselling / psychotherapy once but was very disappointed, how can I re-consider starting it again?**
 
