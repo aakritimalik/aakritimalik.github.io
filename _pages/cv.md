@@ -75,11 +75,9 @@ redirect_from:
 ## Licenses, Trainings, and Certifications
 * Clinical Psychologist 
   - [Rehabilitation Council of India (RCI)](http://rehabcouncil.nic.in/ "http://rehabcouncil.nic.in/")
-
 * Eye Movement Desensitization and Reprocessing (EMDR) Level 1 training
   - [EMDR Association of Australia](https://emdraa.org/ "https://emdraa.org/") 
 * [New Zealand Psychologist Society](https://www.psychology.org.nz/ "https://www.psychology.org.nz/")
-
 * Acceptance and Commitment Therapy for Mood and Anxiety Disorders
 * Internal Family Systems Therapy by Dick Schwartz
 * [Compassion Focused Therapy Workshop at the Compassion in Healthcare Conference](https://www.apt.ac/compassion-focused-therapy-training.html), University of Auckland 
