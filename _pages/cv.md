@@ -32,7 +32,7 @@ redirect_from:
 ## Work experience
 - **Senior Clinical Psychologist**, Aug 2019 - Present<br>
 **[Middlemore Hospital, Auckland, New Zealand](https://www.countiesmanukau.health.nz/ "https://www.countiesmanukau.health.nz/")**
-   - Overlooking a 53 bedded acute inpatient service. Providing individual and group psychotherapy to adults and liaising with other Central Mental Health Clinics.
+   - Overlooking a 53 bedded acute inpatient service. Providing individual and group psychotherapy to adults and liaising with other Community Mental Health Clinics.
 
 - **Lecturer**, Mar 2017 - May 2019<br>
 **[Management and Science University, Selangor, Malaysia](https://www.msu.edu.my/ "https://www.msu.edu.my/")**
@@ -76,10 +76,15 @@ redirect_from:
 * Clinical Psychologist 
   - [Rehabilitation Council of India (RCI)](http://rehabcouncil.nic.in/ "http://rehabcouncil.nic.in/")
 
-* Eye Movement Desensitization and Reprocessing (EMDR) Level I training
+* Eye Movement Desensitization and Reprocessing (EMDR) Level 1 training
   - [EMDR Association of Australia](https://emdraa.org/ "https://emdraa.org/") 
-* [New Zealand Psychologist Board](https://psychologistsboard.org.nz/ "https://psychologistsboard.org.nz/")
+* [New Zealand Psychologist Society](https://www.psychology.org.nz/ "https://www.psychology.org.nz/")
 
+* Acceptance and Commitment Therapy for Mood and Anxiety Disorders
+* Internal Family Systems Therapy by Dick Schwartz
+* [Compassion Focused Therapy Workshop at the Compassion in Healthcare Conference](https://www.apt.ac/compassion-focused-therapy-training.html), University of Auckland 
+* Introduction to Supervision Skills, University of Auckland
+* Compassionate Enquiry, Gabor Mate 
   
 ## Peer-reviewed publications
 **Malik A.** (2021) _Coming Home to Self: Finding Self-Compassion and Self-Love in Psychotherapy._ In: Mayer CH., Vanderheiden E. (eds) International Handbook of Love. Springer, Cham. [Link](https://doi.org/10.1007/978-3-030-45996-3_27)
