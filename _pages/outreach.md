@@ -21,23 +21,26 @@ Subscribe to my [newsletter](https://gmail.us19.list-manage.com/subscribe?u=6290
 <div style="float: left; margin-right: 10px; width: 800px">
     <a href="https://www.instagram.com/p/B_jkE9ejVsB/" title="https://www.instagram.com/p/B_jkE9ejVsB/"><img src="/images/mindfullly.png"></a>
 </div>
-</br>
 
+<br>
 
 <div style="float: left; margin-right: 10px; width: 800px">
     <a href="https://www.instagram.com/p/B_jkE9ejVsB/" title="https://www.instagram.com/p/B_jkE9ejVsB/"><img src="/images/mind_2.png"></a>
 </div>
-</br>
+
+<br>
 
 <div style="float: left; margin-right: 10px; width: 800px">
     <a href="https://www.instagram.com/p/B_jkE9ejVsB/" title="https://www.instagram.com/p/B_jkE9ejVsB/"><img src="/images/mind_3.png"></a>
 </div>
-</br>
+
+<br>
 
 <div style="float: left; margin-right: 10px; width: 800px">
     <a href="https://www.instagram.com/p/B_jkE9ejVsB/" title="https://www.instagram.com/p/B_jkE9ejVsB/"><img src="/images/mind_4.png"></a>
 </div>
-</br>
+
+<br>
 
 
 {% if site.talkmap_link == true %}
@@ -48,8 +51,3 @@ Subscribe to my [newsletter](https://gmail.us19.list-manage.com/subscribe?u=6290
   {% include archive-single-talk.html %}
 {% endfor %}
 
-
-## Teaching
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
