@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Office
-<i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Middlemore Hospital, Auckland, New Zealand*<br />
+<i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Middlemore Hospital, Auckland, New Zealand<br />
 
 <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br />
 
