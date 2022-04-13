@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
-
 <h2 align="center">{{ site.author.name }}</h2>
 <h3 align="center" style="margin: 0px auto 20px;">M.Phil, M.A, B.A</h3>
 <p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>

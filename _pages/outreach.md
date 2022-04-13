@@ -1,15 +1,14 @@
 ---
 permalink: /outreach/
 title: "Outreach"
-excerpt: "One-line description here"
+excerpt: "Follow me @mindfulllyme"
 header:
   overlay_image: header/mindfulllyme.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
   caption: "Photo: A. Malik"
 author_profile: true
 redirect_from: 
-  - /outreach/talks/
-  - /outreach/teaching/
+  - 
 ---
 
 {% include base_path %}
@@ -41,13 +40,4 @@ Subscribe to my [newsletter](https://gmail.us19.list-manage.com/subscribe?u=6290
 </div>
 
 <br>
-
-
-{% if site.talkmap_link == true %}
-  <i class="fas fa-map-marked-alt"></i> You can also see a [map of all the places I've given a talk](/outreach/talkmap/).
-{% endif %}{: .notice--info}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
 

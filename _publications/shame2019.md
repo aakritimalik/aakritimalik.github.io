@@ -1,7 +1,7 @@
 ---
 title: "Working with Shame in Psychotherapy: An Eclectic Approach"
 collection: publications
-permalink: /publication/articles/shame2019
+permalink: /publication/shame2019
 citation: "<b>Malik A.</b> (2019) Working with Shame in Psychotherapy: An Eclectic Approach. In: Mayer CH., Vanderheiden E. (eds) The Bright Side of Shame. Springer,
 DOI: <a href='https://doi.org/10.1007/978-3-030-13409-9_25'>10.1007/978-3-030-13409-9_25</a>"
 date: 2019-04-26

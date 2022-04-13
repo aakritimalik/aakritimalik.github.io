@@ -17,6 +17,15 @@ redirect_from:
 
 ### Online
 
-<i class="fab fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a><br />
-<i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}">ResearchGate</a><br />
-<i class="ai ai-orcid"></i>&nbsp;&nbsp;<a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a><br />
+{% if site.author.instagram %}
+  <i class="fab fa-instagram" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://instagram.com/{{ site.author.instagram }}">Instagram</a><br />
+{% endif %}
+{% if site.author.linkedin %}
+  <i class="fab fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a><br />
+{% endif %}
+{% if site.author.researchgate %}
+  <i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}">ResearchGate</a><br />
+{% endif %}
+{% if site.author.orcid %}
+  <i class="ai ai-orcid"></i>&nbsp;&nbsp;<a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a><br />
+{% endif %}

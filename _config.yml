@@ -59,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "juliusgarbe"
+  username               : #&twitter "twitterhandle"
 facebook:
   username               :
   app_id                 :
@@ -85,29 +85,29 @@ author:
   name             : *name # sidebar name
   avatar           : "avatar/IMG_2634.png"
   bio              : "Clinical Psychologist at Middlemore Hospital" # sidebar bio
-  location         : "Auckland,New Zealand"
+  location         : "Auckland, New Zealand"
   employer         : "Middlemore Hospital"
-  googlescholar    : #"PHdduOoAAAAJ"
+  googlescholar    : 
   email            : "aakritimcounselling@gmail.com "
   researchgate     : "Aakriti-Malik"
-  uri              : #"https://www.pik-potsdam.de/members/garbe/"
+  uri              : #"https://www.example.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"juliusgarbe"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : "mindfulllyme"
   lastfm           :
   linkedin         : "aakriti-malik-186873114"
-  orcid            : #"0000-0003-3140-3307"
-  phone            : #"+49 331 288 2673"
+  orcid            : 
+  phone            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : #*twitter
@@ -244,7 +244,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Pacific/Auckland # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
