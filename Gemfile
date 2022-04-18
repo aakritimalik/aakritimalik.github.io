@@ -22,6 +22,10 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 #gem "jekyll-pdf" # not working. Use fix below.
 #gem "jekyll-pdf", :git => 'git://github.com/m1racoli/jekyll-pdf', :branch => 'fix-digest-gem'
 
+gem 'jekyll-sitemap'
+# Pre-requisite for installing jekyll plugin, which generates
+# a sitemaps.org compliant sitemap for your Jekyll site
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
