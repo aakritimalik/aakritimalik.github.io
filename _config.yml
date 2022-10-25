@@ -78,6 +78,7 @@ analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-246655899-1"
+google_analytics         : "UA-246655899-1"
 
 
 # Site Author
@@ -87,7 +88,7 @@ author:
   bio              : "Clinical Psychologist at Middlemore Hospital" # sidebar bio
   location         : "Auckland, New Zealand"
   employer         : "Middlemore Hospital"
-  googlescholar    : 
+  googlescholar    :
   email            : "aakritimcounselling@gmail.com "
   researchgate     : "Aakriti-Malik"
   uri              : #"https://www.example.com"
@@ -97,17 +98,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        : "mindfulllyme"
   lastfm           :
   linkedin         : "aakriti-malik-186873114"
-  orcid            : 
-  phone            : 
+  orcid            :
+  phone            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : #*twitter
