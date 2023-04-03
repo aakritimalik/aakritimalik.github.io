@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "AAKRITI MALIK" # site title
 title_separator          : "&#124;"
 name                     : &name "Aakriti Malik"
-description              : &description "Clinical Psychologist at Middlemore Hospital, Auckland, New Zealand" # used predominantly in meta descriptions for improving SEO
+description              : &description "Clinical Psychologist - certified by the New Zealand Psychologist Board" # used predominantly in meta descriptions for improving SEO
 url                      : "https://aakritimalik.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aakritimalik/academicpages.github.io"
@@ -89,7 +89,7 @@ author:
   location         : "Auckland, New Zealand"
   employer         : "Middlemore Hospital"
   googlescholar    :
-  email            : "aakritimcounselling@gmail.com "
+  email            : "aakritimcounselling@outlook.com"
   researchgate     : "Aakriti-Malik"
   uri              : #"https://www.example.com"
   bitbucket        :
