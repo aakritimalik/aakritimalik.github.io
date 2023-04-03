@@ -18,22 +18,21 @@ In addition to providing psychotherapy, I am passionate about mentoring and supp
 
 ## Approach to psychotherapy
 
-My approach in psychotherapy involves offering a warm, non-judgmental and a compassionate space for you to feel secure enough to discuss your concerns. Being a trauma-informed therapist, I follow a client-centred and holistic framework, believing in your innate potential for growth and problem-solving.
+My approach in psychotherapy involves offering a warm, non-judgmental and a compassionate space for you to feel secure enough to discuss your concerns. Being a trauma-informed therapist, I follow a client-centred and holistic framework, believing in your innate potential for growth and problem-solving. In our collaborative work in psychotherapy, you will see me utilise and incorporate tools and concepts from attachment theory, compassion based therapy, breath- work, CBT, DBT, Acceptance and Commitment Therapy, Internal Family Systems Therapy, Gestalt and Psychodynamic approaches to skilfully navigate through your concerns.
 
-In our collaborative work in psychotherapy, you will see me utilise and incorporate tools and concepts from attachment theory, compassion based therapy, breath- work, CBT, DBT, Acceptance and Commitment Therapy, Internal Family Systems Therapy, Gestalt and Psychodynamic approaches to skilfully navigate through your concerns.
+During our sessions, I will focus on the affirmative, explorative, informative, and corrective domains of supervision to provide you with a well-rounded space to enhance your skills and knowledge.
 
-I am committed to  my own self-work and life-long learning,  by attending professional development trainings and completing additional certifications to keep myself abreast with the latest developments in the field, so as to offer you the very best of evidence-based practices in therapy.
+If you're seeking a supportive and growth-oriented supervision space, I would be delighted to work with you. Please feel free to book a free 10-minute consultation with me at aakritimcounselling@outlook.com.
 
-I look forward to connecting with you and supporting you with the next step in your healing journey.
-
+**For psychologists from India: I’m currently running an on-line monthly group supervision for Practicing Psychologists. Mail me to express interest to join. Spaces open!** 
 
 ## Approach to Supervision
 
-My approach in supervision is to create an open, warm, non-judgmental and explorative space for you to connect with your innate wisdom and potential as a Mental Health Professional. In this relationship, we shall navigate through your personal and professional aspects of your psychotherapeutic work with your clients in a structured as well as process- oriented manner, allowing you to chart your growth in your professional development in a flexible manner.
+My approach to supervision is to create an open, safe, supportive, and non-judgmental space where you can explore your potential as a Mental Health Professional. Together, we will navigate through both personal and professional aspects of your psychotherapeutic work with your clients. I use a structured and process-oriented approach to help you chart your growth and development as a mental health professional in a flexible and personalized way.
 
-The sessions shall emphasise upon the affirmative, explorative, informative and corrective domains in supervision, giving you an all-round space to hone your skills.
+During our sessions, I will focus on the affirmative, explorative, informative, and corrective domains of supervision to provide you with a well-rounded space to enhance your skills and knowledge.
 
-If this sounds like a supervision space you’re looking for, I would be delighted to support you in your professional development.
+If you're seeking a supportive and growth-oriented supervision space, I would be thrilled to work with you. Please feel free to book a free 10-minute consultation with me at aakritimcounselling@outlook.com.
 
 
 
