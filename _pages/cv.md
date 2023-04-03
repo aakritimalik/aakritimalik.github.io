@@ -77,10 +77,12 @@ redirect_from:
   - [EMDR Association of Australia](https://emdraa.org/ "https://emdraa.org/") 
 * [New Zealand Psychologist Society](https://www.psychology.org.nz/ "https://www.psychology.org.nz/")
 * Acceptance and Commitment Therapy for Mood and Anxiety Disorders
-* Internal Family Systems Therapy by Dick Schwartz
+* Internal Family Systems Therapy training – PESI
 * [Compassion Focused Therapy Workshop at the Compassion in Healthcare Conference](https://www.apt.ac/compassion-focused-therapy-training.html), University of Auckland 
 * Introduction to Supervision Skills, University of Auckland
-* Compassionate Enquiry, Gabor Mate 
+* Compassionate Enquiry -  Dr. Gabor Mate 
+* Healing Trauma and Addiction Course - Dr. Gabor Mate 
+  
   
 ## Peer-reviewed publications
 **Malik A.** (2021) _Coming Home to Self: Finding Self-Compassion and Self-Love in Psychotherapy._ In: Mayer CH., Vanderheiden E. (eds) International Handbook of Love. Springer, Cham. [Link](https://doi.org/10.1007/978-3-030-45996-3_27)
