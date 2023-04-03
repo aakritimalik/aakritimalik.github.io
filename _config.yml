@@ -87,7 +87,7 @@ author:
   avatar           : "avatar/IMG_2634.png"
   bio              : "Clinical Psychologist at Middlemore Hospital" # sidebar bio
   location         : "Auckland, New Zealand"
-  employer         : "Middlemore Hospital"
+  employer         : #"Middlemore Hospital"
   googlescholar    :
   email            : "aakritimcounselling@outlook.com"
   researchgate     : "Aakriti-Malik"
