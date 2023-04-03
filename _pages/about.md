@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello and welcome!
 
-Welcome!
+My name is Aakriti Malik, and I am a licensed Clinical Psychologist with a decade of experience helping adults with a wide range of psychological difficulties. My areas of expertise include inner child healing, anxiety, depression, migration adjustment, grief and loss, emotional disturbances, relationship difficulties, life transitions, women's health issues, and trauma work. 
 
-I’m a registered Clinical Psychologist in India and New Zealand with 8 years of experience in providing psychotherapy services to clients across the globe, aged from 18-60 years for various mental health and clinical concerns.	
+Prior to my current work in private practice in Auckland, New Zealand, I have had the privilege of working in prominent organizations in India and Malaysia. In Auckland, I have worked at Middlemore Hospital and Auckland City Hospital, gaining valuable experience in the field.
 
-It has been an honour to provide services within the community in the form of trainings, workshops and seminars for fellow Health Professionals and students of Psychology and see clients in private practice. My passion for the growth of Mental Health Professionals has driven me to offer spaces for supervision and therapy to young psychologists. My fondness for teaching, writing and research led me to work as a lecturer in India and Malaysia, allowing me to publish my work in Indian and International publications. My interest in the field has directed me to develop content and training modules for mental health websites and create my own mental health page titled <a href="https://instagram.com/{{ site.author.instagram }}">@mindfulllyme</a>  on Instagram in 2018, to promote positive mental health and wellbeing among the masses.
-
+In addition to providing psychotherapy, I am passionate about mentoring and supporting young psychologists in their professional development. Please visit the supervision page to learn more about this aspect of my work.
  
 
 ## Approach to psychotherapy
