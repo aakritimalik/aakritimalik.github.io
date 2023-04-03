@@ -47,13 +47,11 @@ Absolutely! That is always possible and in fact encouraged, if and when you feel
 
 **I want to work with you, however I cannot afford your fee, do you give any discounts?**
 
-I’m so glad to know that you are eager to work with me. I do provide some discount in case you wish to book a 6 session package and pay for it in advance. 
-Now and then, I may offer sessions at a sliding scale fee. Kindly check with me for the same. 
+I’m so glad to know that you are eager to work with me. Now and then, I offer sessions at a sliding scale fee. Kindly check with me for the same.
 
 **I’m a student willing to work with you, however I cannot afford your fee. Can I still get any help?**
 
-Of course you can! It takes courage to ask for help and I’m so glad you are brave enough to do that.
-I offer workshops and webinars ( discounted prices for students) which involve discussion of various skills and tools to use when dealing with overwhelming emotions. Additionally, I would encourage you to subscribe to my bimonthly newsletter to keep your inner work going. 
+Of course, you can! I often see clients who are eligible to for support from WINZ here in New Zealand. 
 
 **I tried counselling / psychotherapy once but was very disappointed, how can I re-consider starting it again?**
 
